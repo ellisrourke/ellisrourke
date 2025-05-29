@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @ellisrourke
 - 👀 I’m interested in Software Development and Computer Science
-- 🌱 I’m currently learning Django web apps with Python
 - 📫 How to reach me - ellisrourke@gmail.com
