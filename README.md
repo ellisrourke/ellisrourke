@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @ellisrourke
-- 👀 I’m interested in Software Development and Computer Science
-- 📫 How to reach me - ellisrourke@gmail.com
